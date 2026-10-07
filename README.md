@@ -129,6 +129,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Ideogram](https://ideogram.ai) | AI art with excellent text rendering | 💰 🌐 |
 | [Leonardo AI](https://leonardo.ai) | Generous free tier image generation | 💰 🌐 |
 | [Microsoft Designer](https://designer.microsoft.com) | AI image generation with templates | 💰 🌐 |
+| [MyPhotoAI](https://myphotoai.io/) | Turn your selfies into AI headshots and portraits. | 💵 🌐 |
 | [Playground](https://playground.com) | Mixed image generation and editing | 💰 🌐 |
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
